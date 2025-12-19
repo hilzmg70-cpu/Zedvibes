@@ -1,0 +1,2 @@
+export interface Song { id: string; title: string; artist: string; album: string; cover: string; url: string; genre: string; mood: string; tags: string[]; duration: string; downloads: number; releaseDate: string; }
+export interface AIReview { rating: number; review: string; suggestedTags: string[]; suggestedMood: string; }

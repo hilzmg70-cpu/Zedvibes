@@ -1,0 +1,6 @@
+{
+  "name": "ZedVibess",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
